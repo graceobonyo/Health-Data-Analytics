@@ -15,7 +15,7 @@ Developing countries have experienced rapid urbanisation and economic growth whi
 
  Disease & Risk Factors: tb and hiv incidences, obesity pct, smoking male and female, alcohol per capita, diabetes pct.
 
- Infrastructure & Care: health_expenditure_pct_gdp, physicians,hospital beds and nurses per_1000, immunization measles, prenatal care pct.
+ Infrastructure & Care: health_expenditure_pct_gdp, physicians,hospital beds and nurses per_1000, immunization, prenatal care pct.
 
  Economy & Poverty: gdp per capita, gdp_per_capita_ppp, poverty rate
 
